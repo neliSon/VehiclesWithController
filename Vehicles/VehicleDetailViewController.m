@@ -7,7 +7,7 @@
 //
 
 #import "VehicleDetailViewController.h"
-
+#import "Car.h"
 #import "Vehicle.h"
 
 @interface VehicleDetailViewController ()
